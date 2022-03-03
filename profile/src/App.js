@@ -1,4 +1,5 @@
 import React from "react";
+import Nav from "./Nav";
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
       <br />
       <h2>Hold Music</h2>
       <p>Its gonna get better</p>
-     
+     <Nav />
     </div>
   );
 }
