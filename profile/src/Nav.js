@@ -1,6 +1,6 @@
 import React from "react";
 
-class Nav extends React.Component(props){
+class Nav extends React.Component{
     
     render(){
         const labels = ["Home", "Personal Information", "Personal Profile", "Interest in IT", "Ideal Job", "Project Idea" ];
