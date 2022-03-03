@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5646bc6f.css","mappings":"AAAA,KAME,YAAa,CALb,sCAAyC,CACzC,cAAe,CAGf,WAAY,CADZ,iBAAkB,CADlB,SAIF","sources":["index.css"],"sourcesContent":["body {\n  font-family: Arial, Helvetica, sans-serif;\n  font-size: 12pt;\n  width: 70%;\n  text-align: center;\n  margin: auto;\n  color: maroon;\n}\n\n\n"],"names":[],"sourceRoot":""}
