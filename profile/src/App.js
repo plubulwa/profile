@@ -1,8 +1,9 @@
 import React from "react";
 
+
 function App() {
   return (
-    <div className="App">
+    <div className="title">
       <h1>Profile - Peter Lubulwa</h1>
       <br />
       <h2>Hold Music</h2>
